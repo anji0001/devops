@@ -1,0 +1,11 @@
+jenkins webhook (aws test) not done
+username 
+vegan
+password
+anji@123
+http://18.223.119.9:8080/vegan/github-webhook
+github
+username
+anji999
+pass
+Anji@kovi2017
