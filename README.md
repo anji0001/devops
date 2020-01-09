@@ -1,1 +1,3 @@
-# slave
+# maven-project
+
+Simple Maven Project
