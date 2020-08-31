@@ -10,7 +10,7 @@ int main(void)
 {
 int i;
 char *s[] = {
-"Git tutorials",
+"Git tutorias",
 "Tutorials Point for learning"
 };
 for (i = 0; i < 2; ++i)
